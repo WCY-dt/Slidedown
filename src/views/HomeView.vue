@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import Slidedown from '../components/SlidedownComponent.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Slidedown />
   </main>
 </template>
