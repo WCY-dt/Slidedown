@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "highlight.js": "^11.9.0",
-    "katex": "^0.16.10",
+    "katex": "^0.16.21",
     "marked": "^11.1.0",
     "marked-highlight": "^2.1.0",
     "pinia": "^2.1.7",
